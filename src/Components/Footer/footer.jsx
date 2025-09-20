@@ -20,6 +20,7 @@ const footer = () => {
           <Link to="/" className="hover:text-blue-500 transition">Portfolio</Link>
           <Link to="/skills" className="hover:text-blue-500 transition">Skills</Link>
           <Link to="/contact" className="hover:text-blue-500 transition">Contact</Link>
+           <Link to="/project" className="hover:text-blue-500 transition">Project</Link>
         </div>
 
         {/* Social Icons */}
